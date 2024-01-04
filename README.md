@@ -1,6 +1,6 @@
-# vue-movies
+# Vue Movies
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple project using the [OMDB API](https://www.omdbapi.com/)
 
 ## Recommended IDE Setup
 
@@ -33,3 +33,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+---
+
+Coffee and Code 🧑‍💻☕️
